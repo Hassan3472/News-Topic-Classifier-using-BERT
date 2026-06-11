@@ -1,5 +1,4 @@
 
-```markdown
 # News-Topic-Classifier-using-BERT
 
 ## Project Overview
@@ -54,4 +53,4 @@ The fine-tuned model and its tokenizer were saved to the `./saved_model` directo
 - Eval Loss : 0.5484
 
 The fine-tuned BERT model achieved high accuracy and F1-score on the test set, demonstrating its effectiveness in classifying news headlines into the specified categories. A Gradio interface was deployed to provide a live demo of the classifier.
-```
+
